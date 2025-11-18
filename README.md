@@ -1,4 +1,4 @@
-# examenfinalmodulo
+# examenfinalmoduloVUE
 
 ## Project setup
 ```
